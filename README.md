@@ -7,7 +7,7 @@ This project was made for a practical study.
 <img src="img/form-01.png" alt="Web Version"/>
 <br/>
 <br/>
-<img src="img/form-02.png" alt="Web Version"/>>
+<img src="img/form-02.png" alt="Web Version"/>
 <br/>
 <br/>
 
